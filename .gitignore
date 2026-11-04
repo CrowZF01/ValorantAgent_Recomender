@@ -1,0 +1,7 @@
+# Data mentah dari Kaggle (diunduh sendiri, jangan di-commit)
+all_ids/
+vct_20*/
+*.zip
+*.csv
+.ipynb_checkpoints/
+__pycache__/
