@@ -1,0 +1,158 @@
+{
+  "agents": {
+    "astra": {
+      "icon": "assets\\images\\agents\\icons\\astra.webp",
+      "portrait": "assets\\images\\agents\\portraits\\astra.webp"
+    },
+    "breach": {
+      "icon": "assets\\images\\agents\\icons\\breach.webp",
+      "portrait": "assets\\images\\agents\\portraits\\breach.webp"
+    },
+    "brimstone": {
+      "icon": "assets\\images\\agents\\icons\\brimstone.webp",
+      "portrait": "assets\\images\\agents\\portraits\\brimstone.webp"
+    },
+    "chamber": {
+      "icon": "assets\\images\\agents\\icons\\chamber.webp",
+      "portrait": "assets\\images\\agents\\portraits\\chamber.webp"
+    },
+    "clove": {
+      "icon": "assets\\images\\agents\\icons\\clove.webp",
+      "portrait": "assets\\images\\agents\\portraits\\clove.webp"
+    },
+    "cypher": {
+      "icon": "assets\\images\\agents\\icons\\cypher.webp",
+      "portrait": "assets\\images\\agents\\portraits\\cypher.webp"
+    },
+    "deadlock": {
+      "icon": "assets\\images\\agents\\icons\\deadlock.webp",
+      "portrait": "assets\\images\\agents\\portraits\\deadlock.webp"
+    },
+    "fade": {
+      "icon": "assets\\images\\agents\\icons\\fade.webp",
+      "portrait": "assets\\images\\agents\\portraits\\fade.webp"
+    },
+    "gekko": {
+      "icon": "assets\\images\\agents\\icons\\gekko.webp",
+      "portrait": "assets\\images\\agents\\portraits\\gekko.webp"
+    },
+    "harbor": {
+      "icon": "assets\\images\\agents\\icons\\harbor.webp",
+      "portrait": "assets\\images\\agents\\portraits\\harbor.webp"
+    },
+    "iso": {
+      "icon": "assets\\images\\agents\\icons\\iso.webp",
+      "portrait": "assets\\images\\agents\\portraits\\iso.webp"
+    },
+    "jett": {
+      "icon": "assets\\images\\agents\\icons\\jett.webp",
+      "portrait": "assets\\images\\agents\\portraits\\jett.webp"
+    },
+    "kayo": {
+      "icon": "assets\\images\\agents\\icons\\kayo.webp",
+      "portrait": "assets\\images\\agents\\portraits\\kayo.webp"
+    },
+    "killjoy": {
+      "icon": "assets\\images\\agents\\icons\\killjoy.webp",
+      "portrait": "assets\\images\\agents\\portraits\\killjoy.webp"
+    },
+    "miks": {
+      "icon": "assets\\images\\agents\\icons\\miks.webp",
+      "portrait": "assets\\images\\agents\\portraits\\miks.webp"
+    },
+    "neon": {
+      "icon": "assets\\images\\agents\\icons\\neon.webp",
+      "portrait": "assets\\images\\agents\\portraits\\neon.webp"
+    },
+    "omen": {
+      "icon": "assets\\images\\agents\\icons\\omen.webp",
+      "portrait": "assets\\images\\agents\\portraits\\omen.webp"
+    },
+    "phoenix": {
+      "icon": "assets\\images\\agents\\icons\\phoenix.webp",
+      "portrait": "assets\\images\\agents\\portraits\\phoenix.webp"
+    },
+    "raze": {
+      "icon": "assets\\images\\agents\\icons\\raze.webp",
+      "portrait": "assets\\images\\agents\\portraits\\raze.webp"
+    },
+    "reyna": {
+      "icon": "assets\\images\\agents\\icons\\reyna.webp",
+      "portrait": "assets\\images\\agents\\portraits\\reyna.webp"
+    },
+    "sage": {
+      "icon": "assets\\images\\agents\\icons\\sage.webp",
+      "portrait": "assets\\images\\agents\\portraits\\sage.webp"
+    },
+    "skye": {
+      "icon": "assets\\images\\agents\\icons\\skye.webp",
+      "portrait": "assets\\images\\agents\\portraits\\skye.webp"
+    },
+    "sova": {
+      "icon": "assets\\images\\agents\\icons\\sova.webp",
+      "portrait": "assets\\images\\agents\\portraits\\sova.webp"
+    },
+    "tejo": {
+      "icon": "assets\\images\\agents\\icons\\tejo.webp",
+      "portrait": "assets\\images\\agents\\portraits\\tejo.webp"
+    },
+    "veto": {
+      "icon": "assets\\images\\agents\\icons\\veto.webp",
+      "portrait": "assets\\images\\agents\\portraits\\veto.webp"
+    },
+    "viper": {
+      "icon": "assets\\images\\agents\\icons\\viper.webp",
+      "portrait": "assets\\images\\agents\\portraits\\viper.webp"
+    },
+    "vyse": {
+      "icon": "assets\\images\\agents\\icons\\vyse.webp",
+      "portrait": "assets\\images\\agents\\portraits\\vyse.webp"
+    },
+    "waylay": {
+      "icon": "assets\\images\\agents\\icons\\waylay.webp",
+      "portrait": "assets\\images\\agents\\portraits\\waylay.webp"
+    },
+    "yoru": {
+      "icon": "assets\\images\\agents\\icons\\yoru.webp",
+      "portrait": "assets\\images\\agents\\portraits\\yoru.webp"
+    }
+  },
+  "maps": {
+    "Abyss": {
+      "splash": "assets\\images\\maps\\Abyss.webp"
+    },
+    "Ascent": {
+      "splash": "assets\\images\\maps\\Ascent.webp"
+    },
+    "Bind": {
+      "splash": "assets\\images\\maps\\Bind.webp"
+    },
+    "Breeze": {
+      "splash": "assets\\images\\maps\\Breeze.webp"
+    },
+    "Corrode": {
+      "splash": "assets\\images\\maps\\Corrode.webp"
+    },
+    "Fracture": {
+      "splash": "assets\\images\\maps\\Fracture.webp"
+    },
+    "Haven": {
+      "splash": "assets\\images\\maps\\Haven.webp"
+    },
+    "Icebox": {
+      "splash": "assets\\images\\maps\\Icebox.webp"
+    },
+    "Lotus": {
+      "splash": "assets\\images\\maps\\Lotus.webp"
+    },
+    "Pearl": {
+      "splash": "assets\\images\\maps\\Pearl.webp"
+    },
+    "Split": {
+      "splash": "assets\\images\\maps\\Split.webp"
+    },
+    "Sunset": {
+      "splash": "assets\\images\\maps\\Sunset.webp"
+    }
+  }
+}
